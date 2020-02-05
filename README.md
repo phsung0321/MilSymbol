@@ -1,2 +1,2 @@
 # MilSymbol
-MilSymbol test test test
+MilSymbol connect 박혜성
